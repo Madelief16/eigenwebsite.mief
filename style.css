@@ -4,3 +4,14 @@ html, body {
   margin: 0px;
 	font-family: monospace; 
 }
+
+h1 {
+  text-decoration: underline;
+}
+
+.main-nav {
+  width: 800px;
+  margin-left: 200px;
+  position: absolute;
+  bottom: 0px;
+}
