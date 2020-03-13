@@ -4,6 +4,7 @@ html, body {
   margin: 0px;
 	font-family: monospace; 
 }
+
 header {
   padding:30px;
   text-align: left;
@@ -19,6 +20,11 @@ body {
 nav{
   position: absolute;
   left: 0px;
+  -webkit-text-fill-color: black;
+}
+
+img {
+  margin-left: 400px;
 }
 
 h1 {
@@ -26,3 +32,6 @@ h1 {
   background-color: rgb(213, 237, 255);
 }
 
+form {
+  font-family: monospace;
+}
