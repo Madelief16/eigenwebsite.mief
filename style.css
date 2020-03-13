@@ -24,12 +24,15 @@ nav{
 }
 
 img {
-  margin-left: 400px;
+  margin-left: 900px;
 }
 
 h1 {
   text-decoration: underline;
   background-color: rgb(213, 237, 255);
+}
+p{
+  width:600px;
 }
 
 form {
